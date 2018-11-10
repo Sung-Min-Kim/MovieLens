@@ -88,6 +88,7 @@ class Main
 
 			// (4-6) test recommender on the test data to check its prediction performance.
 			test(fileReaderForTestData, recommender) ;
+			
 		}
 		catch (IOException e) {
 			System.err.println(e) ;

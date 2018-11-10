@@ -7,7 +7,6 @@ import org.junit.Test;
 import edu.handong.csee.pp1.bigdata.movielens.Main;
 
 public class MainTest {
-
 	@Test
 	public void testGUI() {
 		String[] args = {"-d"};
